@@ -105,3 +105,17 @@ public class Craps
         System.out.println("You had " + wins + " wins and " + loss + " losses.");
     }
 }
+
+
+/* 
+
+COMMENTS FROM THE INSTRUCTOR:
+
+This is a really nice version of the program, Jonah, and as a bonus, you're
+keeping track their wins and losses--well done! At least one of your default
+Y/n options doesn't work as it should. Otherwise, outstanding!
+
+SCORE: 16/15
+
+*/
+
